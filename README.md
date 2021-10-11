@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShahAzharuddin
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML,CSS and JAVASCRIPT
-- 📫 How to reach me on azharuddinshah8@gmail.com
+- 📫 Reach me on azharuddinshah8@gmail.com
 
 <!---
 ShahAzharuddin/ShahAzharuddin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
